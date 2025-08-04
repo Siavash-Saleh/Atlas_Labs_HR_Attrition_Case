@@ -6,7 +6,7 @@ This Power BI project was developed for Atlas Labs to support their HR decision-
 
 The dashboard provides actionable insights through data visualizations and KPIs focused on employee demographics, performance, and satisfaction — helping HR managers make smarter decisions to reduce turnover.
 
-Key Analyses Included:
+#### Key Analyses Included:
 Overall Attrition Rate and trends over time
 
 Attrition by Department, those who work overtime, and travel status
